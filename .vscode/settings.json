@@ -1,0 +1,7 @@
+{
+    "window.zoomLevel": 0.5,
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar",
+        "c:\\Users\\Annisaa Adindra\\Downloads\\Compressed\\mysql-connector-java-5.1.49\\mysql-connector-java-5.1.49\\mysql-connector-java-5.1.49.jar"
+    ]
+}
